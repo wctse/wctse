@@ -47,9 +47,9 @@
   3. Investing
   4. Photography
   5. Wine & Cocktail
-  6. Of course... TRAVELLING!  
-  
-  And... thank you for browsing this long list to the bottom! Send an email to me @ wchak.tse@gmail.com if you are interested :D
+  6. Of course... TRAVELLING!    
+     <br />
+  And... thank you for browsing to the bottom! Send an email to me @ wchak.tse@gmail.com if you are interested :D
 </details>
 
 ## Currently...
