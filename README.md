@@ -3,7 +3,7 @@
 ## Who Am I?
 - **Student at** [HKUST](https://hkust.edu.hk/home) 🏫<br />In BBA(Information Systems) and graduating in June 2021 (it's a good school)  
 
-- **Focusing on having a Data Science Career** 📊<br />Because I believe data can remove prejudices  
+- **Focusing on having a Data Career** 📊<br />Because I believe data can remove prejudices  
 
 - **Living in Hong Kong** 🏙️ <br />A modern, vibrant city!  
 
