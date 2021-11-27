@@ -9,7 +9,7 @@
 
 - **Interested in many things**🤔 <br />Outdoors, Philosophy, Meterorology, Music & Languages... you name it!  
 
-- **An MBTI ENTP type**, which explains the above <br />
+- **An MBTI ENTP**, which explains the above <br />
 
 - <details>
   <summary> More Interests!</summary>
