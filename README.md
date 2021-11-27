@@ -1,9 +1,7 @@
 #### Welcome to Chak's Little Playground — where I think about literally everything...
 
 ## Who Am I?
-- **Student at** [HKUST](https://hkust.edu.hk/home) 🏫<br />In BBA(Information Systems) and graduating in June 2021 (it's a good school)  
-
-- **Focusing on having a Data Career** 📊<br />Because I believe data can remove prejudices  
+- **Data Consultant** [fifty-five](https://www.fifty-five.com/hk/) 🏫<br />
 
 - **Living in Hong Kong** 🏙️ <br />A modern, vibrant city!  
 
@@ -11,7 +9,7 @@
 
 - **Interested in many things**🤔 <br />Outdoors, Philosophy, Meterorology, Music & Languages... you name it!  
 
-- **An ENFP, which explains the above** <br />This is after many reads, tests and reflections on cognitive functions. If you don't know what it is, look up on [MBTI personalities](https://en.wikibooks.org/wiki/Myers-Briggs_Type_Indicator/Introduction#:~:text=The%20Myers%2DBriggs%20Type%20Indicator,the%20theories%20of%20Carl%20Jung.)!
+- **An MBTI ENTP type**, which explains the above <br />
 
 - <details>
   <summary> More Interests!</summary>
