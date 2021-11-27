@@ -1,7 +1,9 @@
 #### Welcome to Chak's Little Playground — where I think about literally everything...
 
 ## Who Am I?
-- **Data Consultant** [fifty-five](https://www.fifty-five.com/hk/) 🏫<br />
+- Full-time **Data Consultant** [fifty-five](https://www.fifty-five.com/hk/) 🏫<br />
+
+- Freelance / part-time **Cryptocurrency analyst** <br />
 
 - **Living in Hong Kong** 🏙️ <br />A modern, vibrant city!  
 
@@ -51,7 +53,7 @@
 </details>
 
 ## Currently...
-- 🔭 I’m currently working on [Youtube Video Analysis](https://github.com/wctse/youtube-video-analysis)  
+- 🔭 
 
 - 🌱 I’m currently learning Statistics with _The Elements of Statistical Learning_ and Google Cloud Platform  
 
