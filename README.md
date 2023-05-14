@@ -1,9 +1,9 @@
 #### Welcome to Chak's Little Playground — where I think about literally everything...
 
-## Who Am I?
-- Full-time **Data Consultant** [fifty-five](https://www.fifty-five.com/hk/) 🏫<br />
+Note that this README.md is quite old...
 
-- Freelance / part-time **Cryptocurrency analyst** <br />
+## Who Am I?
+- Crypto & Data enthusiast 🏫 <br />
 
 - **Living in Hong Kong** 🏙️ <br />A modern, vibrant city!  
 
