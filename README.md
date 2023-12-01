@@ -9,6 +9,8 @@
 ## Current Projects
 - On-chain sleuth for Bubblemaps
 - Telegram bot for EVM inscriptions
+  - https://github.com/wctse/awslambda-telegram-bot-inscription
+  - https://github.com/wctse/awslambda-telegram-bot-request-handler
 - Freelance Dune wizard</summary>
   - Smart wallet discovery: https://dune.com/queries/2990566
   - Inscription fair launch tracker: https://dune.com/0xtoolman/1bot-asc20
