@@ -24,6 +24,6 @@
 - GraphQL @ novice
 
 ## Past roles
-- Data pipeline development for Messari, a blockchain research company
-- Research analyst @ Hailstone Labs
+- Data pipeline development for Messari, a blockchain research company. Main stack: Python (Dagster), SQL & Snowflake
+- Research analyst @ Hailstone Labs. Main stack: Python, SQL & Google Cloud Platform
 - Data consultant @ fifty-five
