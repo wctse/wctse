@@ -16,6 +16,9 @@
   - Inscription fair launch tracker: https://dune.com/0xtoolman/1bot-asc20
 - Learning game theory, LLMs and French
 
+## Past projects
+- Please find my code portfolio here: https://github.com/wctse/code-portfolio
+
 ## Languages
 - Python @ advanced
 - SQL @ advanced
